@@ -1,1 +1,9 @@
 C:\Users\pc\Desktop\dilshan\Practical-Test\test\test\bin\Debug\test.exe.config
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\bin\Debug\test.exe.config
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\bin\Debug\test.exe
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\bin\Debug\test.pdb
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\obj\Debug\test.exe
+C:\Users\pc\Desktop\oshan\Practical-Test\test\test\obj\Debug\test.pdb
